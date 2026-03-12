@@ -71,6 +71,7 @@ Wszystko jest dla ludzi, ale z rozwagą :)
 5. 30.04:
     - Praca nad projektami
     - Przegląd narzędzi AI
+    - sprawdzian pisemny ???
 6. 21.05:
     - Prezentacja projektów + obrona (na obu zajęciach).
     - Wystawienie ocen (punktów) za warsztaty.
@@ -83,6 +84,7 @@ Każda nieobecność nadmiarowa musi być nadrobiona krótką (maksymalnie 2 str
 Aby zaliczyć zajęcia warsztatowe należy:
 - stworzyć projekt (max: 40 pkt, na zaliczenie 20 pkt)
 - obronić ten projekt (max: 20 pkt, na zaliczenie 10 pkt)
+- napisać sprawdzian pisemny (teoria, max: 40 pkt, na zaliczenie 21 pkt)
 
 Punktacja:
 - Projekt:
