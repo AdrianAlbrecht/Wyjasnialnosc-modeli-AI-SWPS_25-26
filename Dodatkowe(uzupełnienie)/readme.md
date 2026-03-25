@@ -1,0 +1,3 @@
+Szanowni Państwo,
+
+zgodnie z umową w tym folderze znajdą Państwo uzupełnienie wiadomości dotyczące podstawowych informacji o przygotowywaniu danych do treningu modeli AI, optymalizajci hiperparametrów takich modeli, jak i oceny jakości modelu. Są to laby z innych zajęć prowadzonych przeze mnie na kierunku Informatyka. Mogą być przydatne, aczkolwiek ich znajomość w zupełności nie jest obligatoryjnie potrzebna. Może natomiast zdecydownaie pomóc podczas tworzenia projektu zwłaszcza przy preprocessingu danych.
