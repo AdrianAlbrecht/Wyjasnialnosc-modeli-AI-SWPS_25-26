@@ -55,7 +55,7 @@ Wszystko jest dla ludzi, ale z rozwagą :)
 7. Ocena jakości wyjaśnień: sanity checks, spójność, komunikacja dla interesariuszy; elementy human‑centered XAI.
 8. Anchor/ELI5 - przegląd.
 
-## 6. Harmonogram zajęć (może ulec zmianie)
+## 6. Harmonogram zajęć (może ulec zmianie) _**zmiany**_
 1. 12.03:
     - SYLABUS, sprawy organizacyjne + Wprowadzenie do XAI.
     - Dane i modele bazowe w Python (scikit‑learn).
@@ -65,13 +65,13 @@ Wszystko jest dla ludzi, ale z rozwagą :)
 3. 09.04:
     - Wyjaśnienia lokalne
     - SHAP
-4. 16.04:
+4. 30.04: _**zmiany**_
     - Ocena jakości wyjaśnień
     - Anchor/ELI5
-5. 30.04:
+5. 07.05: _**zmiany**_
     - Praca nad projektami
     - Przegląd narzędzi AI
-    - sprawdzian pisemny ???
+    - sprawdzian pisemny (do ustalenia termnin zamienny, w razie potrzeby) _**zmiany**_
 6. 21.05:
     - Prezentacja projektów + obrona (na obu zajęciach).
     - Wystawienie ocen (punktów) za warsztaty.
