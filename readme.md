@@ -92,7 +92,7 @@ Punktacja:
     - preprocessing i przygotowanie danych do uczenia (3 pkt)
     - przygotowanie i trenowanie modeli AI - min. 3 różne modele, w tym tylko jeden "z natury wyjaśnialny" (5 pkt)
     - ocena jakości modeli (5 pkt)
-    - próba wyjaśnialności modeli i ich interpretacja poznanymi metodami (15 pkt)
+    - próba wyjaśnialności modeli i ich interpretacja poznanymi metodami (~~15~~ 20 pkt)
     - wnioski (5 pkt)
 - Obrona:
     - znajomość swojego projektu (obligatoryjny warunek zaliczenia)
